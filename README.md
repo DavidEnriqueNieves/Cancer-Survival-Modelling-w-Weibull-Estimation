@@ -167,7 +167,7 @@ al (see References, Lemma 2.1 of the paper), it can be seen that a
 Weibull Power Function is a composition of a random variable $Y$ with a
 weibull distribution in the following manner:
 
-$\alpha\ \lbrack\frac{Y}{1\  + \ Y}\rbrack^{(\frac{1}{\beta})}$
+$$\alpha\ \lbrack\frac{Y}{1\  + \ Y}\rbrack^{(\frac{1}{\beta})}$$
 
 While the Weibull distribution has shape parameters $a,b$, the Weibull
 Power Function has shape parameters $a,b,\alpha,\beta$.
@@ -182,10 +182,21 @@ probability distribution (CDF) F(t).
 
 Deriving f(t):
 
-$f\left( t \right) = F^{'}\left( t \right) = d/dt\left( 1 - e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}} \right) = e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \left( \nu t^{\lambda\omega - 1}\text{λω} \right)*\left( \varphi^{\lambda} - t^{\lambda} \right)^{- \omega} + \left( \nu t^{\text{λω}} \right)*\left( \varphi^{\lambda} - t^{\lambda} \right)^{- \omega - 1}\left( - \omega \right)*\left( - \lambda t^{\lambda - 1} \right) \right\rbrack = e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \frac{\text{νωλ}t^{\lambda\omega - 1}\left( \varphi^{\lambda} - t^{\lambda} \right)}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} + \frac{\text{νωλ}t^{\text{λω}}t^{\lambda - 1}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} \right\rbrack = e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \frac{\text{νωλ}t^{\lambda\omega - 1}\varphi^{\lambda} - \nu\omega\lambda t^{\lambda\omega - 1 + \lambda} + \nu\omega\lambda t^{\lambda\omega + \lambda - 1}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} \right\rbrack = e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}\frac{\text{νωλ}t^{\lambda\omega - 1}\varphi^{\lambda}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}}$
+$$f\left( t \right) = F^{'}\left( t \right) $$
+
+$$= d/dt\left( 1 - e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}} \right) $$
+
+
+$$=e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \left( \nu t^{\lambda\omega - 1}\text{λω} \right)*\left( \varphi^{\lambda} - t^{\lambda} \right)^{- \omega} + \left( \nu t^{\text{λω}} \right)*\left( \varphi^{\lambda} - t^{\lambda} \right)^{- \omega - 1}\left( - \omega \right)*\left( - \lambda t^{\lambda - 1} \right) \right\rbrack $$
+
+$$= e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \frac{\text{νωλ}t^{\lambda\omega - 1}\left( \varphi^{\lambda} - t^{\lambda} \right)}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} + \frac{\text{νωλ}t^{\text{λω}}t^{\lambda - 1}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} \right\rbrack $$
+
+$$= e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}*\left\lbrack \frac{\text{νωλ}t^{\lambda\omega - 1}\varphi^{\lambda} - \nu\omega\lambda t^{\lambda\omega - 1 + \lambda} + \nu\omega\lambda t^{\lambda\omega + \lambda - 1}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}} \right\rbrack$$
+
+$$= e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}\frac{\text{νωλ}t^{\lambda\omega - 1}\varphi^{\lambda}}{\left( \varphi^{\lambda} - t^{\lambda} \right)^{\omega + 1}}$$
 
 Therefore,
-$f\left( t \right) = \frac{\text{νωλ}\varphi^{\lambda}t^{\omega\lambda - 1}}{\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack^{\omega + 1}}e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}$
+$$f\left( t \right) = \frac{\text{νωλ}\varphi^{\lambda}t^{\omega\lambda - 1}}{\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack^{\omega + 1}}e^{- \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}$$
 
 Since each value of F(t) and f(t) must be between 0 and 1, and that the
 data has a maximum t value of 1022, assumptions can be made for the
@@ -195,11 +206,11 @@ $\nu,\omega,\lambda > 0,\ and\ \varphi > 1022 \geq t > 0$
 
 Calculating h(t):
 
-$h\left( t \right) = \frac{f\left( t \right)}{S\left( t \right)} = \frac{f\left( t \right)}{1 - F\left( t \right)} = \frac{\text{νωλ}\varphi^{\lambda}t^{\omega\lambda - 1}}{\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack^{\omega + 1}}$
+$$h\left( t \right) = \frac{f\left( t \right)}{S\left( t \right)} = \frac{f\left( t \right)}{1 - F\left( t \right)} = \frac{\text{νωλ}\varphi^{\lambda}t^{\omega\lambda - 1}}{\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack^{\omega + 1}}$$
 
 The regular Weibull distribution is
 
-$F\left( t \right) = 1 - e^{- \left\lbrack x/\lambda \right\rbrack^{k}}$
+$$F\left( t \right) = 1 - e^{- \left\lbrack x/\lambda \right\rbrack^{k}}$$
 
 Given the PDF and CDF equations above, it can be seen that there are
 direct comparisons to the original Weibull equation shown above. For
@@ -357,17 +368,17 @@ each of the four parameters will need to be calculated, and then
 determined if this is truly a maximization of L (and thus, the MLE).
 These equations turn out to be the following:
 
-$\frac{\text{δL}}{\text{δν}} = \frac{n}{\nu} - \left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}$
+$$\frac{\text{δL}}{\text{δν}} = \frac{n}{\nu} - \left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}$$
 
-$\frac{\delta^{2}L}{\text{δν}^{2}} = \frac{- n}{\nu^{2}} < 0$
+$$\frac{\delta^{2}L}{\text{δν}^{2}} = \frac{- n}{\nu^{2}} < 0$$
 
-$\frac{\text{δL}}{\text{δω}} = \frac{n}{\omega} + \left\lbrack \text{λln}\left( t \right) - ln\left( \varphi^{\lambda} - t^{\lambda} \right) - \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}*ln\left( \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right) \right\rbrack$
+$$\frac{\text{δL}}{\text{δω}} = \frac{n}{\omega} + \left\lbrack \text{λln}\left( t \right) - ln\left( \varphi^{\lambda} - t^{\lambda} \right) - \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}*ln\left( \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right) \right\rbrack$$
 
-$\frac{\delta^{2}L}{\text{δω}^{2}} = \frac{- n}{\omega^{2}} - \left\lbrack \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}*\ln^{2}\left( \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right) \right\rbrack < 0$
+$$\frac{\delta^{2}L}{\text{δω}^{2}} = \frac{- n}{\omega^{2}} - \left\lbrack \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}*\ln^{2}\left( \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right) \right\rbrack < 0$$
 
-$\frac{\partial L}{\partial\lambda} = n\left\lbrack \ln\left( \nu \right) + ln\left( \omega \right) + ln\left( \lambda \right) + \lambda ln\left( \varphi \right) \right\rbrack + \left\lbrack \left( \omega\lambda - 1 \right)\ln\left( t \right) - \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) - \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$
+$$\frac{\partial L}{\partial\lambda} = n\left\lbrack \ln\left( \nu \right) + ln\left( \omega \right) + ln\left( \lambda \right) + \lambda ln\left( \varphi \right) \right\rbrack + \left\lbrack \left( \omega\lambda - 1 \right)\ln\left( t \right) - \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) - \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$$
 
-$\frac{\text{δL}}{\text{δφ}} = \frac{\text{nλ}}{\varphi} + \left\lbrack - \frac{\left( \omega + 1 \right)\lambda\varphi^{\lambda - 1}}{\varphi^{\lambda} - t^{\lambda}} - \nu\lambda\omega t^{\text{λω}}{\varphi^{\lambda - 1}\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack}^{- \omega - 1} \right\rbrack$
+$$\frac{\text{δL}}{\text{δφ}} = \frac{\text{nλ}}{\varphi} + \left\lbrack - \frac{\left( \omega + 1 \right)\lambda\varphi^{\lambda - 1}}{\varphi^{\lambda} - t^{\lambda}} - \nu\lambda\omega t^{\text{λω}}{\varphi^{\lambda - 1}\left\lbrack \varphi^{\lambda} - t^{\lambda} \right\rbrack}^{- \omega - 1} \right\rbrack$$
 
 As seen above, these gradients can be quite complex. It can be proven
 that any optimization of the parameters $\omega$ and $\nu$ will be a
@@ -390,21 +401,21 @@ optimization of the MLE function, the estimates found must be directly
 related to the true values for the solution space. Using the above
 derivatives found with optimization techniques, it can be seen that:
 
-$\frac{\text{δL}}{\text{δν}} = \frac{n}{\nu} - \left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} = 0$
+$$\frac{\text{δL}}{\text{δν}} = \frac{n}{\nu} - \left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} = 0$$
 
-$\nu = \frac{n}{\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}$
+$$\nu = \frac{n}{\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}$$
 
 Next, it can be proven what the true estimated value of $\varphi$ should
 be. Let's consider a subfunction of L that only considers the parts that
 have $\varphi$ included:
 
-$P = n\lambda ln\left( \varphi \right) - \left\lbrack \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) + \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$
+$$P = n\lambda ln\left( \varphi \right) - \left\lbrack \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) + \nu\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$$
 
 Using the above P, and the solution for $\nu$:
 
 $with\ T = max(t_{i})$
 
-$P\text{\ \ } = \text{nλln}\left( T \right) - \lim_{\varphi \rightarrow T^{+}}\left\lbrack \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) + \frac{n}{\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$
+$$P\text{\ \ } = \text{nλln}\left( T \right) - \lim_{\varphi \rightarrow T^{+}}\left\lbrack \left( \omega + 1 \right)\ln\left( \varphi^{\lambda} - t^{\lambda} \right) + \frac{n}{\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega}}\left\lbrack \frac{t^{\lambda}}{\varphi^{\lambda} - t^{\lambda}} \right\rbrack^{\omega} \right\rbrack$$
 
 The leading terms in the summation that will be affecting the limit the
 most will be when t = T, and all the other values will be much smaller
@@ -515,25 +526,24 @@ One attempt at optimization is to keep some of the variables constant,
 and then optimize the parameters one at a time. The results for this
 style of testing are shown below.
 
-  **[Ind. Optimized Parameter Value]{.underline}**   **[Combined]{.underline}**   **[Male]{.underline}**   **[Female]{.underline}**
-  -------------------------------------------------- ---------------------------- ------------------------ --------------------------
-  $\lambda$                                          63.3251                      57.8361                  75.1015
-  $\varphi$                                          \~1022                       \~1022                   \~965
-  $\omega$                                           0.03012                      0.02755                  0.03578
+  | **[Ind. Optimized Parameter Value]** | **[Combined]** | **[Male]** | **[Female]** |
+|--------------------------------------------------|----------------------------|------------------------|--------------------------|
+| $\lambda$                                        | 63.3251                    | 57.8361                | 75.1015                  |
+| $\varphi$                                        | \~1022                     | \~1022                 | \~965                    |
+| $\omega$                                         | 0.03012                    | 0.02755                | 0.03578                  |
 
 However, the more accurate technique to perform optimization is done by
 optimizing all the parameters at the same time. When simplifying MLE to
 be a function of only $\omega$ and $\lambda$ and then performing the
 optimization, we arrive at the following results below.
 
-  **[Parameter Values]{.underline}**   **[Combined]{.underline}**   **[Male]{.underline}**   **[Female]{.underline}**
-  ------------------------------------ ---------------------------- ------------------------ --------------------------
-  𝞴                                    50.66104                     48.43294                 38.4
-  𝝋                                    \~1022                       \~1022                   \~965
-  𝛚                                    0.02626212                   0.02718752               0.03818065
-  $\nu$                                4.477732                     4.753729                 3.93184
-  Max ln(MLE)                          -1037.059                    -614.063                 -402.5507
-
+| **[Parameter Values]** | **[Combined]** | **[Male]** | **[Female]** |
+|------------------------------------|----------------------------|------------------------|--------------------------|
+| 𝞴                                  | 50.66104                   | 48.43294               | 38.4                     |
+| 𝝋                                  | \~1022                     | \~1022                 | \~965                    |
+| 𝛚                                  | 0.02626212                 | 0.02718752             | 0.03818065               |
+| $\nu$                              | 4.477732                   | 4.753729               | 3.93184                  |
+| Max ln(MLE)                        | -1037.059                  | -614.063               | -402.5507                |
 All the values above seem fairly consistent in their ranges. It will be
 seen that the overall results are very close to the male dataset, which
 directly correlates with the fact that the dataset had a much higher
@@ -573,9 +583,9 @@ height="2.0827373140857395in"}
 ![](./media/image21.png){width="2.6707403762029744in"
 height="1.8940562117235347in"}
 
-  **Dataset**   **Overall**   **Mens**   **Womens**
-  ------------- ------------- ---------- ------------
-  **SSE**       0.043998      0.161910   0.280258
+| **Dataset** | **Overall**  |**Mens**  |**Womens**
+| ------------| -------------|----------|------------
+| **SSE**     | 0.043998     |0.161910  |0.280258
 
 As seen from the graphs and sum of squared errors (SSE) above, the CDF
 has a higher error on the women's side than on the men's side, and this
