@@ -1,0 +1,389 @@
+With phi = 1122
+-----Iteration 6 -----
+lam= 6.012602 ,nu= 5.537682 ,phi= 1122 ,omega= 0.2376411 ,f= -1052.646 ,
+lam= 6.012602 ,nu= 5.537682 ,phi= 1122 ,omega= 0.2376411 ,f= -1052.646 ,
+-----Iteration 7 -----
+lam= 6.246134 ,nu= 5.590123 ,phi= 1122 ,omega= 0.2300997 ,f= -1052.632 ,
+lam= 6.246134 ,nu= 5.590123 ,phi= 1122 ,omega= 0.2300997 ,f= -1052.632 ,
+-----Iteration 8 -----
+lam= 6.414778 ,nu= 5.608662 ,phi= 1122 ,omega= 0.224415 ,f= -1052.63 ,
+lam= 6.414778 ,nu= 5.608662 ,phi= 1122 ,omega= 0.224415 ,f= -1052.63 ,
+-----Iteration 9 -----
+lam= 6.453374 ,nu= 5.616222 ,phi= 1122 ,omega= 0.2232594 ,f= -1052.63 ,
+lam= 6.453374 ,nu= 5.616222 ,phi= 1122 ,omega= 0.2232594 ,f= -1052.63 ,
+-----Iteration 10 -----
+lam= 6.457688 ,nu= 5.616787 ,phi= 1122 ,omega= 0.2231226 ,f= -1052.63 ,
+lam= 6.457688 ,nu= 5.616787 ,phi= 1122 ,omega= 0.2231226 ,f= -1052.63 ,
+
+with phi = 1072,
+
+lam= 7.604465 ,nu= 5.224383 ,phi= 1072 ,omega= 0.1885955 ,f= -1052.262 ,
+lam= 7.604465 ,nu= 5.224383 ,phi= 1072 ,omega= 0.1885955 ,f= -1052.262 ,
+-----Iteration 8 -----
+lam= 7.902503 ,nu= 5.252736 ,phi= 1072 ,omega= 0.1820628 ,f= -1052.254 ,
+lam= 7.902503 ,nu= 5.252736 ,phi= 1072 ,omega= 0.1820628 ,f= -1052.254 ,
+-----Iteration 9 -----
+lam= 8.048569 ,nu= 5.266873 ,phi= 1072 ,omega= 0.179052 ,f= -1052.253 ,
+lam= 8.048569 ,nu= 5.266873 ,phi= 1072 ,omega= 0.179052 ,f= -1052.253 ,
+-----Iteration 10 -----
+lam= 8.085181 ,nu= 5.270509 ,phi= 1072 ,omega= 0.1783176 ,f= -1052.253 ,
+lam= 8.085181 ,nu= 5.270509 ,phi= 1072 ,omega= 0.1783176 ,f= -1052.253 ,
+-----Iteration 11 -----
+lam= 8.087381 ,nu= 5.270735 ,phi= 1072 ,omega= 0.1782739 ,f= -1052.253 ,
+lam= 8.087381 ,nu= 5.270735 ,phi= 1072 ,omega= 0.1782739 ,f= -1052.253 ,
+-----Iteration 12 -----
+
+
+
+wit phi = 1032
+
+
+am= 8.244461 ,nu= 4.829273 ,phi= 1032 ,omega= 0.1719782 ,f= -1051.728 ,
+lam= 8.244461 ,nu= 4.829273 ,phi= 1032 ,omega= 0.1719782 ,f= -1051.728 ,
+-----Iteration 6 -----
+lam= 10.1033 ,nu= 4.68554 ,phi= 1032 ,omega= 0.135659 ,f= -1051.731 ,
+lam= 10.1033 ,nu= 4.68554 ,phi= 1032 ,omega= 0.135659 ,f= -1051.731 ,
+lam= 9.17388 ,nu= 4.827758 ,phi= 1032 ,omega= 0.1538186 ,f= -1051.518 ,
+lam= 9.17388 ,nu= 4.827758 ,phi= 1032 ,omega= 0.1538186 ,f= -1051.518 ,
+-----Iteration 7 -----
+lam= 10.19115 ,nu= 4.888537 ,phi= 1032 ,omega= 0.139475 ,f= -1051.363 ,
+lam= 10.19115 ,nu= 4.888537 ,phi= 1032 ,omega= 0.139475 ,f= -1051.363 ,
+-----Iteration 8 -----
+lam= 11.08542 ,nu= 4.938675 ,phi= 1032 ,omega= 0.129046 ,f= -1051.284 ,
+lam= 11.08542 ,nu= 4.938675 ,phi= 1032 ,omega= 0.129046 ,f= -1051.284 ,
+-----Iteration 9 -----
+lam= 11.88636 ,nu= 4.971051 ,phi= 1032 ,omega= 0.1208203 ,f= -1051.247 ,
+lam= 11.88636 ,nu= 4.971051 ,phi= 1032 ,omega= 0.1208203 ,f= -1051.247 ,
+-----Iteration 10 -----
+lam= 12.48429 ,nu= 4.998154 ,phi= 1032 ,omega= 0.1154441 ,f= -1051.232 ,
+lam= 12.48429 ,nu= 4.998154 ,phi= 1032 ,omega= 0.1154441 ,f= -1051.232 ,
+-----Iteration 11 -----
+lam= 12.91024 ,nu= 5.013615 ,phi= 1032 ,omega= 0.1118532 ,f= -1051.227 ,
+lam= 12.91024 ,nu= 5.013615 ,phi= 1032 ,omega= 0.1118532 ,f= -1051.227 ,
+-----Iteration 12 -----
+lam= 13.10344 ,nu= 5.022274 ,phi= 1032 ,omega= 0.1103336 ,f= -1051.227 ,
+lam= 13.10344 ,nu= 5.022274 ,phi= 1032 ,omega= 0.1103336 ,f= -1051.227 ,
+-----Iteration 13 -----
+lam= 13.15232 ,nu= 5.024291 ,phi= 1032 ,omega= 0.1099532 ,f= -1051.227 ,
+lam= 13.15232 ,nu= 5.024291 ,phi= 1032 ,omega= 0.1099532 ,f= -1051.227 ,
+-----Iteration 14 -----
+lam= 13.15488 ,nu= 5.024412 ,phi= 1032 ,omega= 0.1099337 ,f= -1051.227 ,
+lam= 13.15488 ,nu= 5.024412 ,phi= 1032 ,omega= 0.1099337 ,f= -1051.227 ,
+-----Iteration 15 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+15  iterations
+estimate: 13.15488 0.1099337 
+Function value: -1051.227 
+lam= 13.15488 ,nu= 5.024412 ,phi= 1032 ,omega= 0.1099337 ,f= -1051.227 ,
+lam= 13.15488 ,nu= 5.024412 ,phi= 1032 ,omega= 0.1099337 ,f= -1051.227 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 15 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1051.227 (2 free parameter(s))
+Estimate(s): 13.15488 0.1099337 
+
+
+
+
+With phi = 1027
+
+-----Iteration 5 -----
+lam= 8.738522 ,nu= 4.751748 ,phi= 1027 ,omega= 0.1612192 ,f= -1051.538 ,
+lam= 8.738522 ,nu= 4.751748 ,phi= 1027 ,omega= 0.1612192 ,f= -1051.538 ,
+-----Iteration 6 -----
+lam= 10.65103 ,nu= 4.654518 ,phi= 1027 ,omega= 0.1288853 ,f= -1051.343 ,
+lam= 10.65103 ,nu= 4.654518 ,phi= 1027 ,omega= 0.1288853 ,f= -1051.343 ,
+-----Iteration 7 -----
+lam= 11.35592 ,nu= 4.900755 ,phi= 1027 ,omega= 0.126187 ,f= -1050.943 ,
+lam= 11.35592 ,nu= 4.900755 ,phi= 1027 ,omega= 0.126187 ,f= -1050.943 ,
+-----Iteration 8 -----
+lam= 13.47829 ,nu= 4.777812 ,phi= 1027 ,omega= 0.1035951 ,f= -1050.984 ,
+lam= 13.47829 ,nu= 4.777812 ,phi= 1027 ,omega= 0.1035951 ,f= -1050.984 ,
+lam= 12.41711 ,nu= 4.888776 ,phi= 1027 ,omega= 0.114891 ,f= -1050.857 ,
+lam= 12.41711 ,nu= 4.888776 ,phi= 1027 ,omega= 0.114891 ,f= -1050.857 ,
+-----Iteration 9 -----
+lam= 13.40632 ,nu= 4.932118 ,phi= 1027 ,omega= 0.1070367 ,f= -1050.797 ,
+lam= 13.40632 ,nu= 4.932118 ,phi= 1027 ,omega= 0.1070367 ,f= -1050.797 ,
+-----Iteration 10 -----
+lam= 14.32939 ,nu= 4.955711 ,phi= 1027 ,omega= 0.1004188 ,f= -1050.769 ,
+lam= 14.32939 ,nu= 4.955711 ,phi= 1027 ,omega= 0.1004188 ,f= -1050.769 ,
+-----Iteration 11 -----
+lam= 14.96594 ,nu= 4.980114 ,phi= 1027 ,omega= 0.09647484 ,f= -1050.757 ,
+lam= 14.96594 ,nu= 4.980114 ,phi= 1027 ,omega= 0.09647484 ,f= -1050.757 ,
+-----Iteration 12 -----
+lam= 15.43761 ,nu= 4.991638 ,phi= 1027 ,omega= 0.09366239 ,f= -1050.754 ,
+lam= 15.43761 ,nu= 4.991638 ,phi= 1027 ,omega= 0.09366239 ,f= -1050.754 ,
+-----Iteration 13 -----
+lam= 15.62201 ,nu= 4.998701 ,phi= 1027 ,omega= 0.0926499 ,f= -1050.754 ,
+lam= 15.62201 ,nu= 4.998701 ,phi= 1027 ,omega= 0.0926499 ,f= -1050.754 ,
+-----Iteration 14 -----
+lam= 15.66495 ,nu= 4.99998 ,phi= 1027 ,omega= 0.09241192 ,f= -1050.754 ,
+lam= 15.66495 ,nu= 4.99998 ,phi= 1027 ,omega= 0.09241192 ,f= -1050.754 ,
+-----Iteration 15 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+15  iterations
+estimate: 15.66495 0.09241192 
+Function value: -1050.754 
+lam= 15.66495 ,nu= 4.99998 ,phi= 1027 ,omega= 0.09241192 ,f= -1050.754 ,
+lam= 15.66495 ,nu= 4.99998 ,phi= 1027 ,omega= 0.09241192 ,f= -1050.754 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 15 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1050.754 (2 free parameter(s))
+Estimate(s): 15.66495 0.09241192 
+> 
+
+
+With phi = 1024
+
+-----Iteration 10 -----
+lam= 17.01705 ,nu= 4.869857 ,phi= 1024.5 ,omega= 0.08347059 ,f= -1050.352 ,
+lam= 17.01705 ,nu= 4.869857 ,phi= 1024.5 ,omega= 0.08347059 ,f= -1050.352 ,
+lam= 15.97745 ,nu= 4.933414 ,phi= 1024.5 ,omega= 0.08998068 ,f= -1050.313 ,
+lam= 15.97745 ,nu= 4.933414 ,phi= 1024.5 ,omega= 0.08998068 ,f= -1050.313 ,
+-----Iteration 11 -----
+lam= 16.91234 ,nu= 4.957989 ,phi= 1024.5 ,omega= 0.08528648 ,f= -1050.292 ,
+lam= 16.91234 ,nu= 4.957989 ,phi= 1024.5 ,omega= 0.08528648 ,f= -1050.292 ,
+-----Iteration 12 -----
+lam= 17.62789 ,nu= 4.974432 ,phi= 1024.5 ,omega= 0.08200308 ,f= -1050.285 ,
+lam= 17.62789 ,nu= 4.974432 ,phi= 1024.5 ,omega= 0.08200308 ,f= -1050.285 ,
+-----Iteration 13 -----
+lam= 18.04702 ,nu= 4.985304 ,phi= 1024.5 ,omega= 0.0802197 ,f= -1050.283 ,
+lam= 18.04702 ,nu= 4.985304 ,phi= 1024.5 ,omega= 0.0802197 ,f= -1050.283 ,
+-----Iteration 14 -----
+lam= 18.21241 ,nu= 4.989533 ,phi= 1024.5 ,omega= 0.07953807 ,f= -1050.283 ,
+lam= 18.21241 ,nu= 4.989533 ,phi= 1024.5 ,omega= 0.07953807 ,f= -1050.283 ,
+-----Iteration 15 -----
+lam= 18.23591 ,nu= 4.990212 ,phi= 1024.5 ,omega= 0.07944329 ,f= -1050.283 ,
+lam= 18.23591 ,nu= 4.990212 ,phi= 1024.5 ,omega= 0.07944329 ,f= -1050.283 ,
+-----Iteration 16 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+16  iterations
+estimate: 18.23591 0.07944329 
+Function value: -1050.283 
+lam= 18.23591 ,nu= 4.990212 ,phi= 1024.5 ,omega= 0.07944329 ,f= -1050.283 ,
+lam= 18.23591 ,nu= 4.990212 ,phi= 1024.5 ,omega= 0.07944329 ,f= -1050.283 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 16 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1050.283 (2 free parameter(s))
+Estimate(s): 18.23591 0.07944329 
+> 
+
+
+With phi = 1023.5
+
+-----Iteration 11 -----
+lam= 18.36982 ,nu= 4.96747 ,phi= 1023.5 ,omega= 0.07873003 ,f= -1049.949 ,
+lam= 18.36982 ,nu= 4.96747 ,phi= 1023.5 ,omega= 0.07873003 ,f= -1049.949 ,
+-----Iteration 12 -----
+lam= 19.76978 ,nu= 4.951507 ,phi= 1023.5 ,omega= 0.07288072 ,f= -1049.943 ,
+lam= 19.76978 ,nu= 4.951507 ,phi= 1023.5 ,omega= 0.07288072 ,f= -1049.943 ,
+-----Iteration 13 -----
+lam= 19.95685 ,nu= 4.985565 ,phi= 1023.5 ,omega= 0.07260845 ,f= -1049.937 ,
+lam= 19.95685 ,nu= 4.985565 ,phi= 1023.5 ,omega= 0.07260845 ,f= -1049.937 ,
+-----Iteration 14 -----
+lam= 20.15131 ,nu= 4.986935 ,phi= 1023.5 ,omega= 0.07191549 ,f= -1049.937 ,
+lam= 20.15131 ,nu= 4.986935 ,phi= 1023.5 ,omega= 0.07191549 ,f= -1049.937 ,
+-----Iteration 15 -----
+lam= 20.1562 ,nu= 4.987515 ,phi= 1023.5 ,omega= 0.07190488 ,f= -1049.937 ,
+lam= 20.1562 ,nu= 4.987515 ,phi= 1023.5 ,omega= 0.07190488 ,f= -1049.937 ,
+-----Iteration 16 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+16  iterations
+estimate: 20.1562 0.07190488 
+Function value: -1049.937 
+lam= 20.1562 ,nu= 4.987515 ,phi= 1023.5 ,omega= 0.07190488 ,f= -1049.937 ,
+lam= 20.1562 ,nu= 4.987515 ,phi= 1023.5 ,omega= 0.07190488 ,f= -1049.937 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 16 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1049.937 (2 free parameter(s))
+Estimate(s): 20.1562 0.07190488 
+> 
+> 
+
+with phi = 1022.5
+
+-----Iteration 4 -----
+lam= 8.936424 ,nu= 4.441807 ,phi= 1022.5 ,omega= 0.1510101 ,f= -1052.086 ,
+lam= 8.936424 ,nu= 4.441807 ,phi= 1022.5 ,omega= 0.1510101 ,f= -1052.086 ,
+-----Iteration 5 -----
+lam= 10.75409 ,nu= 4.575308 ,phi= 1022.5 ,omega= 0.1276063 ,f= -1050.866 ,
+lam= 10.75409 ,nu= 4.575308 ,phi= 1022.5 ,omega= 0.1276063 ,f= -1050.866 ,
+-----Iteration 6 -----
+lam= 12.51615 ,nu= 4.699943 ,phi= 1022.5 ,omega= 0.1116202 ,f= -1050.153 ,
+lam= 12.51615 ,nu= 4.699943 ,phi= 1022.5 ,omega= 0.1116202 ,f= -1050.153 ,
+-----Iteration 7 -----
+lam= 14.45982 ,nu= 4.756268 ,phi= 1022.5 ,omega= 0.09719868 ,f= -1049.743 ,
+lam= 14.45982 ,nu= 4.756268 ,phi= 1022.5 ,omega= 0.09719868 ,f= -1049.743 ,
+-----Iteration 8 -----
+lam= 16.15961 ,nu= 4.838196 ,phi= 1022.5 ,omega= 0.08803483 ,f= -1049.488 ,
+lam= 16.15961 ,nu= 4.838196 ,phi= 1022.5 ,omega= 0.08803483 ,f= -1049.488 ,
+-----Iteration 9 -----
+lam= 18.15005 ,nu= 4.855217 ,phi= 1022.5 ,omega= 0.07843368 ,f= -1049.347 ,
+lam= 18.15005 ,nu= 4.855217 ,phi= 1022.5 ,omega= 0.07843368 ,f= -1049.347 ,
+-----Iteration 10 -----
+lam= 19.56482 ,nu= 4.91937 ,phi= 1022.5 ,omega= 0.07348996 ,f= -1049.258 ,
+lam= 19.56482 ,nu= 4.91937 ,phi= 1022.5 ,omega= 0.07348996 ,f= -1049.258 ,
+-----Iteration 11 -----
+lam= 21.45551 ,nu= 4.916082 ,phi= 1022.5 ,omega= 0.06688338 ,f= -1049.217 ,
+lam= 21.45551 ,nu= 4.916082 ,phi= 1022.5 ,omega= 0.06688338 ,f= -1049.217 ,
+-----Iteration 12 -----
+lam= 22.36969 ,nu= 4.964953 ,phi= 1022.5 ,omega= 0.06465517 ,f= -1049.192 ,
+lam= 22.36969 ,nu= 4.964953 ,phi= 1022.5 ,omega= 0.06465517 ,f= -1049.192 ,
+-----Iteration 13 -----
+lam= 23.70966 ,nu= 4.962879 ,phi= 1022.5 ,omega= 0.06093559 ,f= -1049.185 ,
+lam= 23.70966 ,nu= 4.962879 ,phi= 1022.5 ,omega= 0.06093559 ,f= -1049.185 ,
+-----Iteration 14 -----
+lam= 24.07029 ,nu= 4.984147 ,phi= 1022.5 ,omega= 0.06022942 ,f= -1049.182 ,
+lam= 24.07029 ,nu= 4.984147 ,phi= 1022.5 ,omega= 0.06022942 ,f= -1049.182 ,
+-----Iteration 15 -----
+lam= 24.36194 ,nu= 4.986194 ,phi= 1022.5 ,omega= 0.05952081 ,f= -1049.182 ,
+lam= 24.36194 ,nu= 4.986194 ,phi= 1022.5 ,omega= 0.05952081 ,f= -1049.182 ,
+-----Iteration 16 -----
+lam= 24.38065 ,nu= 4.987136 ,phi= 1022.5 ,omega= 0.0594841 ,f= -1049.182 ,
+lam= 24.38065 ,nu= 4.987136 ,phi= 1022.5 ,omega= 0.0594841 ,f= -1049.182 ,
+-----Iteration 17 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+17  iterations
+estimate: 24.38065 0.0594841 
+Function value: -1049.182 
+lam= 24.38065 ,nu= 4.987136 ,phi= 1022.5 ,omega= 0.0594841 ,f= -1049.182 ,
+lam= 24.38065 ,nu= 4.987136 ,phi= 1022.5 ,omega= 0.0594841 ,f= -1049.182 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 17 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1049.182 (2 free parameter(s))
+Estimate(s): 24.38065 0.0594841 
+
+with phi = 1022.05
+
+-----Iteration 10 -----
+lam= 24.63709 ,nu= 4.917868 ,phi= 1022.05 ,omega= 0.05839753 ,f= -1047.653 ,
+lam= 24.63709 ,nu= 4.917868 ,phi= 1022.05 ,omega= 0.05839753 ,f= -1047.653 ,
+-----Iteration 11 -----
+lam= 28.29286 ,nu= 4.845366 ,phi= 1022.05 ,omega= 0.05011309 ,f= -1047.621 ,
+lam= 28.29286 ,nu= 4.845366 ,phi= 1022.05 ,omega= 0.05011309 ,f= -1047.621 ,
+-----Iteration 12 -----
+lam= 29.3299 ,nu= 4.967659 ,phi= 1022.05 ,omega= 0.04935693 ,f= -1047.527 ,
+lam= 29.3299 ,nu= 4.967659 ,phi= 1022.05 ,omega= 0.04935693 ,f= -1047.527 ,
+-----Iteration 13 -----
+lam= 32.5261 ,nu= 4.919286 ,phi= 1022.05 ,omega= 0.04408876 ,f= -1047.526 ,
+lam= 32.5261 ,nu= 4.919286 ,phi= 1022.05 ,omega= 0.04408876 ,f= -1047.526 ,
+-----Iteration 14 -----
+lam= 32.96334 ,nu= 4.988258 ,phi= 1022.05 ,omega= 0.04401372 ,f= -1047.5 ,
+lam= 32.96334 ,nu= 4.988258 ,phi= 1022.05 ,omega= 0.04401372 ,f= -1047.5 ,
+-----Iteration 15 -----
+lam= 33.77811 ,nu= 4.988272 ,phi= 1022.05 ,omega= 0.0429418 ,f= -1047.5 ,
+lam= 33.77811 ,nu= 4.988272 ,phi= 1022.05 ,omega= 0.0429418 ,f= -1047.5 ,
+-----Iteration 16 -----
+lam= 33.81645 ,nu= 4.991933 ,phi= 1022.05 ,omega= 0.0429192 ,f= -1047.499 ,
+lam= 33.81645 ,nu= 4.991933 ,phi= 1022.05 ,omega= 0.0429192 ,f= -1047.499 ,
+-----Iteration 17 -----
+lam= 33.82151 ,nu= 4.991957 ,phi= 1022.05 ,omega= 0.04291288 ,f= -1047.499 ,
+lam= 33.82151 ,nu= 4.991957 ,phi= 1022.05 ,omega= 0.04291288 ,f= -1047.499 ,
+-----Iteration 18 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+18  iterations
+estimate: 33.82151 0.04291288 
+Function value: -1047.499 
+lam= 33.82151 ,nu= 4.991957 ,phi= 1022.05 ,omega= 0.04291288 ,f= -1047.499 ,
+lam= 33.82151 ,nu= 4.991957 ,phi= 1022.05 ,omega= 0.04291288 ,f= -1047.499 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 18 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1047.499 (2 free parameter(s))
+Estimate(s): 33.82151 0.04291288 
+> 
+
+
+
+with phi = 1022.005
+
+
+-----Iteration 9 -----
+lam= 27.02045 ,nu= 4.799849 ,phi= 1022.005 ,omega= 0.0522538 ,f= -1046.119 ,
+lam= 27.02045 ,nu= 4.799849 ,phi= 1022.005 ,omega= 0.0522538 ,f= -1046.119 ,
+-----Iteration 10 -----
+lam= 29.67219 ,nu= 4.89059 ,phi= 1022.005 ,omega= 0.04828191 ,f= -1045.918 ,
+lam= 29.67219 ,nu= 4.89059 ,phi= 1022.005 ,omega= 0.04828191 ,f= -1045.918 ,
+-----Iteration 11 -----
+lam= 33.61956 ,nu= 4.863799 ,phi= 1022.005 ,omega= 0.04233747 ,f= -1045.822 ,
+lam= 33.61956 ,nu= 4.863799 ,phi= 1022.005 ,omega= 0.04233747 ,f= -1045.822 ,
+-----Iteration 12 -----
+lam= 35.5695 ,nu= 4.952656 ,phi= 1022.005 ,omega= 0.04061055 ,f= -1045.739 ,
+lam= 35.5695 ,nu= 4.952656 ,phi= 1022.005 ,omega= 0.04061055 ,f= -1045.739 ,
+-----Iteration 13 -----
+lam= 39.74963 ,nu= 4.905971 ,phi= 1022.005 ,omega= 0.0360047 ,f= -1045.722 ,
+lam= 39.74963 ,nu= 4.905971 ,phi= 1022.005 ,omega= 0.0360047 ,f= -1045.722 ,
+-----Iteration 14 -----
+lam= 40.80296 ,nu= 4.984457 ,phi= 1022.005 ,omega= 0.03554092 ,f= -1045.685 ,
+lam= 40.80296 ,nu= 4.984457 ,phi= 1022.005 ,omega= 0.03554092 ,f= -1045.685 ,
+-----Iteration 15 -----
+lam= 43.54106 ,nu= 4.969011 ,phi= 1022.005 ,omega= 0.03319857 ,f= -1045.681 ,
+lam= 43.54106 ,nu= 4.969011 ,phi= 1022.005 ,omega= 0.03319857 ,f= -1045.681 ,
+-----Iteration 16 -----
+lam= 43.87038 ,nu= 4.99562 ,phi= 1022.005 ,omega= 0.03309595 ,f= -1045.677 ,
+lam= 43.87038 ,nu= 4.99562 ,phi= 1022.005 ,omega= 0.03309595 ,f= -1045.677 ,
+-----Iteration 17 -----
+lam= 44.20316 ,nu= 4.996347 ,phi= 1022.005 ,omega= 0.03284863 ,f= -1045.677 ,
+lam= 44.20316 ,nu= 4.996347 ,phi= 1022.005 ,omega= 0.03284863 ,f= -1045.677 ,
+-----Iteration 18 -----
+lam= 44.20958 ,nu= 4.996696 ,phi= 1022.005 ,omega= 0.03284575 ,f= -1045.677 ,
+lam= 44.20958 ,nu= 4.996696 ,phi= 1022.005 ,omega= 0.03284575 ,f= -1045.677 ,
+-----Iteration 19 -----
+--------------
+successive function values within relative tolerance limit (reltol) 
+19  iterations
+estimate: 44.20958 0.03284575 
+Function value: -1045.677 
+lam= 44.20958 ,nu= 4.996696 ,phi= 1022.005 ,omega= 0.03284575 ,f= -1045.677 ,
+lam= 44.20958 ,nu= 4.996696 ,phi= 1022.005 ,omega= 0.03284575 ,f= -1045.677 ,
+> ml
+Maximum Likelihood estimation
+Newton-Raphson maximisation, 19 iterations
+Return code 8: successive function values within relative tolerance limit (reltol)
+Log-Likelihood: -1045.677 (2 free parameter(s))
+Estimate(s): 44.20958 0.03284575 
+
+with phi = 1022.001
+
+
+
+-----Iteration 12 -----
+lam= 40.0882 ,nu= 4.939127 ,phi= 1022.001 ,omega= 0.03595594 ,f= -1044.428 ,
+lam= 40.0882 ,nu= 4.939127 ,phi= 1022.001 ,omega= 0.03595594 ,f= -1044.428 ,
+-----Iteration 13 -----
+lam= 44.43496 ,nu= 4.915418 ,phi= 1022.001 ,omega= 0.03226934 ,f= -1044.39 ,
+lam= 44.43496 ,nu= 4.915418 ,phi= 1022.001 ,omega= 0.03226934 ,f= -1044.39 ,
+-----Iteration 14 -----
+lam= 46.20737 ,nu= 4.97836 ,phi= 1022.001 ,omega= 0.03135577 ,f= -1044.356 ,
+lam= 46.20737 ,nu= 4.97836 ,phi= 1022.001 ,omega= 0.03135577 ,f= -1044.356 ,
+-----Iteration 15 -----
+lam= 49.92488 ,nu= 4.957945 ,phi= 1022.001 ,omega= 0.02889968 ,f= -1044.349 ,
+lam= 49.92488 ,nu= 4.957945 ,phi= 1022.001 ,omega= 0.02889968 ,f= -1044.349 ,
+-----Iteration 16 -----
+lam= 50.69976 ,nu= 4.995734 ,phi= 1022.001 ,omega= 0.02863715 ,f= -1044.341 ,
+lam= 50.69976 ,nu= 4.995734 ,phi= 1022.001 ,omega= 0.02863715 ,f= -1044.341 ,
+-----Iteration 17 -----
+lam= 51.9561 ,nu= 4.995867 ,phi= 1022.001 ,omega= 0.02793954 ,f= -1044.34 ,
+Iteration 18 
+Parameter:
+[1] 51.95609654  0.02793954
+Gradient (first 30 components):
+[1]      NaN 8.043728
+
+
